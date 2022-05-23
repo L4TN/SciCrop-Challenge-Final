@@ -5,7 +5,7 @@ This repository has the objective of elaborating and solving the challenge propo
 | :----------------------:               | :----------------------------------------------------------:  | 
 | User can register a new Location       | The system must run on web platform (Portability)             | 
 | List     Locations                     | The system must use a Javascript library (Implementation )    |                                               
-| View Locations in Map                  | the system must run with the SQL Database. (Interoperability) | 
+| View Locations in Map                  | the system must persist data. (Interoperability) | 
 
 
 ## Software Architecture & System Architecture
