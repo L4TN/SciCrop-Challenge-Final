@@ -41,9 +41,10 @@ go run .
 ```
 
 ## Run FrontEnd 
+```bash
 cd ./SciCrop-Challenge-Final/src/FrontEnd
 open index.html
-
+```
 
 # API Endpoint : http://localhost:8080/locations
 ```
