@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<!-- Designined by CodingLab - Update by Fantacy Design -->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>SciCrop Challenge</title>
+    <link rel="stylesheet" href="index.css" />
+    <link rel="icon" href="images/csicrop.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="main.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <span class="title">
+        Register New Geolocalization
+        <button
+          type="button"
+          class="button2"
+          onclick="location.href='map.html'"
+        >
+          Map
+        </button>
+      </span>
+      <div class="content">
+        <form action="#">
+          <div class="user-details">
+            <div class="input-box">
+              <span class="details"> Name </span>
+              <input type="text" id="name" placeholder="Enter name of local" required />
+            </div>
+            <div class="input-box">
+
+              <span class="details"> Latitude </span>
+              <input type="number" id="Lat" placeholder="Enter latitude" required />
+            </div>
+            
+            <div class="input-box">
+              <span class="details"> Longitude </span>
+              <input type="number" id="Long" placeholder="Enter longitude" required />
+            </div>
+          </div>
+    
+          <div class="button">
+            <input
+              type="submit"
+              onclick="PostLocation()"
+              value="Create new location"
+            />
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
