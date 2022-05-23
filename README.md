@@ -28,7 +28,7 @@ Set-up the standard Go environment variables according to latest guidance (see h
 ## Installation
 ```bash
 # Download this project
-git clone https://github.com/L4TN/scicrop-geoapp.git
+git clone https://github.com/L4TN/scicrop-geoapp.git](https://github.com/L4TN/SciCrop-Challenge-Final.git
 ```
 
 ## Run BackEnd API
