@@ -40,6 +40,11 @@ go mod tidy
 go run .
 ```
 
+## Run FrontEnd 
+cd ./SciCrop-Challenge-Final/src/FrontEnd
+open index.html
+
+
 # API Endpoint : http://localhost:8080/locations
 ```
 
