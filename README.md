@@ -7,6 +7,10 @@ This repository has the objective of elaborating and solving the challenge propo
 | List     Locations                     | The system must use a Javascript library (Implementation )    |                                               
 | View Locations in Map                  | the system must persist data. (Interoperability) | 
 
+![image](https://user-images.githubusercontent.com/75400361/170135838-e5f5e048-c48a-4bc6-86e6-6a54c5153ae3.png)
+
+![image](https://user-images.githubusercontent.com/75400361/170135754-a976bfc2-e97e-4e82-be15-70bbc9801cfe.png)
+
 
 ## Software Architecture & System Architecture
 ![Microservices Image](https://user-images.githubusercontent.com/75400361/169652789-c16708cb-dd6e-4abb-b030-1d6dc566ace9.png)
